@@ -1,33 +1,18 @@
 {
   "apps" : [
     {
-      "name": "Cloud",
+      "name": "Tools",
       "items": [
-        {"name":"CloudCMD","url":"http://files.example.com","icon":"folder-multiple-outline"},
-        {"name":"Cockpit","url":"http://cp.example.com","icon":"airplane"},
-        {"name":"Feedbin","url":"http://rss.example.com","icon":"rss"},
-        {"name":"Filestash","url":"http://cloud.example.com","icon":"package"},
-        {"name":"Minio","url":"http://minio.example.com","icon":"server"},
-        {"name":"Mylar","url":"http://comics.example.com","icon":"book-open-variant"},
-        {"name":"Nextcloud","url":"http://cloud.example.com","icon":"weather-cloudy"},
-        {"name":"Ombi","url":"http://request.example.com","icon":"file-find-outline"},
-        {"name":"Pi-hole","url":"http://pihole.example.com","icon":"do-not-disturb"},
-        {"name":"Portainer","url":"http://port1.example.com","icon":"docker"},
-        {"name":"Stackedit","url":"http://md.example.com","icon":"markdown"},
-        {"name":"Ubooquity","url":"http://opds.example.com","icon":"library-shelves"}
+        {"name":"临时邮箱","url":"http://files.example.com","icon":"email"},
+        {"name":"图床","url":"http://cp.example.com","icon":"image"},
+        {"name":"koodo 阅读器","url":"https://koodo.1kbtool.com/","icon":"book-open"}
       ]
     },
     {
-      "name": "TV",
+      "name": "Book",
       "items": [
-        {"name":"Plex","url":"http://play.example.com","icon":"plex"},
-        {"name":"Radarr","url":"http://movies.example.com","icon":"filmstrip"},
-        {"name":"Sonarr","url":"http://tv.example.com","icon":"television-box"},
-        {"name":"Bazarr","url":"http://subs.example.com","icon":"message-video"},
-        {"name":"Jackett","url":"http://jackett.example.com","icon":"tshirt-crew-outline"},
-        {"name":"Lidarr","url":"http://music.example.com","icon":"music"},
-        {"name":"Transmission","url":"http://dl.example.com","icon":"progress-download"},
-        {"name":"Youtube-DL","url":"http://yt.example.com","icon":"youtube"}
+        {"name":"zlibrary 检索","url":"https://www.zhelper.net/","icon":"bookshelf"},
+        {"name":"superlib 检索","url":"https://beta.ssdown.org/","icon":"library-shelves"}
       ]
     }
   ],
