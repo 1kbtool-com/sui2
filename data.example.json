@@ -3,8 +3,8 @@
     {
       "name": "Tools",
       "items": [
-        {"name":"临时邮箱","url":"http://files.example.com","icon":"email"},
-        {"name":"图床","url":"http://cp.example.com","icon":"image"},
+        {"name":"临时邮箱","url":"https://forsaken.1kbtool.com/","icon":"email"},
+        {"name":"图床","url":"https://lsky.1kbtool.com/","icon":"image"},
         {"name":"koodo 阅读器","url":"https://koodo.1kbtool.com/","icon":"book-open"}
       ]
     },
