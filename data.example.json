@@ -4,15 +4,16 @@
       "name": "Tools",
       "items": [
         {"name":"临时邮箱","url":"https://forsaken.1kbtool.com/","icon":"email"},
-        {"name":"图床","url":"https://lsky.1kbtool.com/","icon":"image"},
-        {"name":"koodo 阅读器","url":"https://koodo.1kbtool.com/","icon":"book-open"}
+        {"name":"在线白板","url":"https://excalidraw.1kbtool.com/","icon":"whiteboard-24-regular"},
+        {"name":"朋友圈截图生成","url":"https://wechatshot.1kbtool.com/","icon":"cellphone-screenshot"}
       ]
     },
     {
       "name": "Book",
       "items": [
-        {"name":"zlibrary 检索","url":"https://www.zhelper.net/","icon":"bookshelf"},
-        {"name":"superlib 检索","url":"https://beta.ssdown.org/","icon":"library-shelves"}
+        {"name":"聚合书籍检索","url":"https://tool.yibook.org/","icon":"bookshelf"},
+        {"name":"koodo 在线阅读器","url":"https://koodo.1kbtool.com/","icon":"book-open"},
+        {"name":"Epub 在线阅读器","url":"https://bibi.1kbtool.com/","icon":"book"}
       ]
     }
   ],
