@@ -4,7 +4,7 @@
       "name": "Tools",
       "items": [
         {"name":"临时邮箱","url":"https://forsaken.1kbtool.com/","icon":"email"},
-        {"name":"在线白板","url":"https://excalidraw.1kbtool.com/","icon":"whiteboard-24-regular"},
+        {"name":"在线白板","url":"https://excalidraw.1kbtool.com/","icon":"draw-pen"},
         {"name":"朋友圈截图生成","url":"https://wechatshot.1kbtool.com/","icon":"cellphone-screenshot"}
       ]
     },
